@@ -1,6 +1,4 @@
 # GOV.UK elements in Miro
-GOV.UK elements in Mural
-
 Inspired by the Google Drawings GOV.UK elements, this is a port to do wireframing using Miro.
 
 <img width="961" alt="Screenshot of template for using GOVUK Miro wireframes" src="https://raw.githubusercontent.com/vickytnz/govuk-elements-miro/main/example.png">
