@@ -1,9 +1,19 @@
 # GOV.UK elements in Miro
 Inspired by the Google Drawings GOV.UK elements, this is a port to do wireframing using Miro.
 
+Use this file in Miro to create detailed wireframes of GOV.UK services or Unbranded services that are based on the GOVUK Design System.
+
+
 <img width="961" alt="Screenshot of template for using GOVUK Miro wireframes" src="https://raw.githubusercontent.com/vickytnz/govuk-elements-miro/main/example.png">
 
+
+
+## See version in Miro
+<a href="https://miro.com/app/board/o9J_kuA59lQ=/">View this file in Miro</a>
+
 ## How to use this file
+
+### If you have a paid version of Miro
 1. In this repository download the file <a href="https://github.com/vickytnz/govuk-elements-miro/blob/main/GOV.UK%20wireframes%20base.rtb">'GOVUK wirefames base.rtb'</a>.
 2. Go to your Miro account.
 3. Find the 'upload from backup' option.
@@ -11,10 +21,10 @@ Inspired by the Google Drawings GOV.UK elements, this is a port to do wireframin
 5. File will upload
 6. Done! A new Miro board based on this file will be created.
 
-Use this file in Miro to create detailed wireframes of GOV.UK services or Unbranded services that are based on the GOVUK Design System.
 
-## See version in Miro
-<a href="https://miro.com/app/board/o9J_kuA59lQ=/">View this file in Miro</a>
+### Help! I'm using a free version which doesn't support uploading backups
+I have a workaround (for now). Contact me on UK government slack, twitter at @vickytnz or email at vicky dot teinaki at gmail dot com to arrange a way to transfer the board.
+
 
 ## Feedback?
 Raise issues on this this Github or on Twitter at @vickytnz
