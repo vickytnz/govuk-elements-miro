@@ -34,7 +34,7 @@ Use this file in Miro to create detailed wireframes of GOV.UK services or Unbran
 6. Done! A new Miro board based on this file will be created.
 
 ## Feedback?
-Raise issues on this this Github or on Twitter at @vickytnz
+Raise issues on this Github repo or on Twitter at @vickytnz
 
 ## Release notes
 v1.0 by Vicky Teinaki on 7 December 2020. Creative Commons Licence https://creativecommons.org/licenses/by-nc/4.0/
