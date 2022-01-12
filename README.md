@@ -17,8 +17,10 @@ Use this file in Miro to create detailed wireframes of GOV.UK services or Unbran
 1. Create a new Miro board or open an existing one that you would like to add these flow diagram components to
 2 .In a new tab or window go to the publically accessible version of the <a href="https://miro.com/app/board/o9J_l3peC2E=/">GOVUK Design System elements</a>
 3. Find the following frames: <img width="961" alt="Screenshot of template for using GOVUK Miro wireframes" src="https://user-images.githubusercontent.com/1223264/103547172-f7400f00-4e9b-11eb-9136-911ed3958102.png" /> 
-4. Select all the elements (CMD/CTRL + A)
-5. Copy them to your clipboard (Press CMD/CTRL + C)
+4. Either: 
+   a. select all the elements (CMD/CTRL + A)and copy them to your clipboard (Press CMD/CTRL + C)or
+   b. right click on the board and choose 'copy' ![image of miro whiteboard with menu selected including copy](https://user-images.githubusercontent.com/1223264/149198113-714d4a8b-24dc-4b58-81f5-1b91a349eda4.png)
+
 6. Switch back to your Miro in the other window or tab
 7. Paste the components into your board (CMD/CTRL + V)
 8. Done!
